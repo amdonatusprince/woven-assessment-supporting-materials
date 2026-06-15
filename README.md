@@ -6,7 +6,6 @@ Start with:
 
 - [SUMMARY.md](SUMMARY.md): quick overview of the assessment exercises, files, commands, and key findings.
 - [YOUR_NOTES.md](YOUR_NOTES.md): fuller notes, including the Casey email, Tamara ticket comment, PR review notes, RBAC notes, and references.
-- [WOVEN_RESPONSE.md](WOVEN_RESPONSE.md): short email response to the Woven team with this repo positioned as supporting evidence.
 
 Exercise order:
 
