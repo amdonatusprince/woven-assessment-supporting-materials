@@ -1,0 +1,16 @@
+{
+  "name": "test-interview",
+  "private": true,
+  "scripts": {
+    "test": "mocha --require tsx solution.test.ts",
+    "test:all": "mocha --require tsx '**/*.test.ts'",
+    "test:auth": "mocha --require tsx authorization.test.ts",
+    "test:auth:js": "mocha authorization.test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^11.1.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
